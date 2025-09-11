@@ -1,4 +1,4 @@
-# VIM - The Archlinux Build
+**VIM - The Archlinux Build**
 
 Vim feels like it requires one to have a degree in VimScript in order to use it for a proper workflow.
 That changes now.
