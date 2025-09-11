@@ -9,6 +9,8 @@ The only different thing is the PKGBUILD as it allows for clipboard support and 
 It also obviously contains the archlinux build of vim. Feel free to pull request to upload updates.
 You can compile it on arch by cloning the repo and running makepkg like this
 
+        git clone https://github.com/Burhan077/vim
+        cd vim
         makepkg -si
 
 
