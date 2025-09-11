@@ -33,13 +33,4 @@ Another vim easy mode is by running vim with the y option like this
 >
 >It's also meant to make workflow more streamlined while using vim.
 >
->This version is basically vim on easy mode without the vim -y command
->
 
-
-> [!NOTE]
->
-> This repository is no longer maintained as of 15th April 2025.
->
-> This repository contained compiled Linux Scripts so user discretion is advised.
->
