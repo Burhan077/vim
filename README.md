@@ -1,8 +1,7 @@
 # VIM - The Archlinux Build
+
 Vim feels like it requires one to have a degree in VimScript in order to use it for a proper workflow.
-
 That changes now.
-
 This repository is a mirror of the [Archlinux build](https://gitlab.archlinux.org/archlinux/packaging/packages/vim).
 
 ## Compiling
