@@ -23,7 +23,7 @@ Another vim easy mode is by running vim with the y option like this
 
         vim -y
         
-[NOTE]
+[NOTICE]
 >This is not an official mirror.
 >I have edited the PKGBUILD so please make sure to read it.
 >This repo is meant to help people use vim with friendly keybindings.
