@@ -3,19 +3,17 @@ Vim feels like it requires one to have a degree in VimScript in order to use it 
 That changes now.
 This repository is a mirror of the [Archlinux build](https://gitlab.archlinux.org/archlinux/packaging/packages/vim).
 
-## Repository Contents
- 
-The Root folder contains the Fourth Test of the App and the requirements for it to run.
-Install the requirements with the code below while in the Root directory. 
+## Contents
 
-      pip install -r requirements.txt 
-
-This is a python use case so python is a requirement for the app.
+The only different thing is the PKGBUILD as it allows for clipboard support and gets rid of the pesky GUI.
+It also obviously contains the archlinux build of vim. Feel free to pull request to upload updates.
+You can compile it on arch like this.
 
 
-##  Deployment
 
-A live version of the project is available [here](https://autodc.streamlit.app/). 
+
+
+
 
 ## Additional Notes
 
