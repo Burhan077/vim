@@ -25,9 +25,20 @@ Another vim easy mode is by running vim with the y option like this
         
 [!NOTE]
 >This is not an official mirror.
+>
 >I have edited the PKGBUILD so please make sure to read it.
+>
 >This repo is meant to help people use vim with friendly keybindings.
+>
 >It's also meant to make workflow more streamlined while using vim.
+>
 >This version is basically vim on easy mode without the vim -y command
+>
 
 
+> [!NOTE]
+>
+> This repository is no longer maintained as of 15th April 2025.
+>
+> This repository contained compiled Linux Scripts so user discretion is advised.
+>
